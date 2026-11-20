@@ -1,0 +1,10 @@
+# API key
+api.txt
+.env
+
+# Results of runs (samples.jsonl, test.jsonl, dry runs)
+*.jsonl
+
+# Python
+__pycache__/
+*.pyc
